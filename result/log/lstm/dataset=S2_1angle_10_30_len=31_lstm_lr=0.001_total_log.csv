@@ -1,0 +1,9 @@
+flops:,69134464.0,params,135050.0
+Training Time:,0m 59s
+dataset=S2_1angle_10_30_len=31_lstm_lr=0.001_,"tensor(0.9818, device='cuda:5', dtype=torch.float64)"
+flops:,69134464.0,params,135050.0
+Training Time:,6m 10s
+dataset=S2_1angle_10_30_len=31_lstm_lr=0.001_,"tensor(0.9782, device='npu:0')"
+flops:,69134464.0,params,135050.0
+Training Time:,2m 1s
+dataset=S2_1angle_10_30_len=31_lstm_lr=0.001_,"tensor(0.9782, device='npu:0')"
